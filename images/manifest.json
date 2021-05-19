@@ -1,5 +1,5 @@
 {
-  "id" : "https://rossi-uk.github.io/Chinese_drawings /images/manifest.json",
+  "id" : "https://rossi-uk.github.io/Chinese_drawings/images/manifest.json",
   "label" : {
     "en" : [ "All images loaded in rossi-uk/Chinese_drawings- project" ]
   },
@@ -7,17 +7,17 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 2000,
-    "id" : "https://rossi-uk.github.io/Chinese_drawings /images/Red_rose_86/canvas/",
+    "id" : "https://rossi-uk.github.io/Chinese_drawings/images/Red_rose_86/canvas/",
     "label" : {
       "none" : [ "Red_rose_86" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://rossi-uk.github.io/Chinese_drawings /images/Red_rose_86/AnnoPage/",
+      "id" : "https://rossi-uk.github.io/Chinese_drawings/images/Red_rose_86/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://rossi-uk.github.io/Chinese_drawings /images/Red_rose_86/annotation/",
+        "id" : "https://rossi-uk.github.io/Chinese_drawings/images/Red_rose_86/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -48,22 +48,22 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 2000,
-            "@id" : "https://rossi-uk.github.io/Chinese_drawings /images/Red_rose_86",
+            "@id" : "https://rossi-uk.github.io/Chinese_drawings/images/Red_rose_86",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 1185
           } ],
           "format" : "image/jpeg",
           "width" : 2000,
-          "id" : "https://rossi-uk.github.io/Chinese_drawings /images/Red_rose_86/full/full/0/default.jpg",
+          "id" : "https://rossi-uk.github.io/Chinese_drawings/images/Red_rose_86/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 1185
         },
-        "target" : "https://rossi-uk.github.io/Chinese_drawings /images/Red_rose_86/canvas/"
+        "target" : "https://rossi-uk.github.io/Chinese_drawings/images/Red_rose_86/canvas/"
       } ]
     } ],
     "height" : 1185
   }, {
-    "id" : "https://rossi-uk.github.io/Chinese_drawings /images/Yellow_rose_38 /canvas/",
+    "id" : "https://rossi-uk.github.io/Chinese_drawings/images/Yellow_rose_38 /canvas/",
     "label" : {
       "none" : [ "Yellow_rose_38 " ]
     },
@@ -71,17 +71,17 @@
     "proccess_id" : "0686d55a-3cf8-4243-bb1d-3fc2aaba76bc"
   }, {
     "width" : 1335,
-    "id" : "https://rossi-uk.github.io/Chinese_drawings /images/Chinese_drawing_38/canvas/",
+    "id" : "https://rossi-uk.github.io/Chinese_drawings/images/Chinese_drawing_38/canvas/",
     "label" : {
       "none" : [ "Chinese_drawing_38" ]
     },
     "type" : "Canvas",
     "items" : [ {
-      "id" : "https://rossi-uk.github.io/Chinese_drawings /images/Chinese_drawing_38/AnnoPage/",
+      "id" : "https://rossi-uk.github.io/Chinese_drawings/images/Chinese_drawing_38/AnnoPage/",
       "type" : "AnnotationPage",
       "items" : [ {
         "motivation" : "Painting",
-        "id" : "https://rossi-uk.github.io/Chinese_drawings /images/Chinese_drawing_38/annotation/",
+        "id" : "https://rossi-uk.github.io/Chinese_drawings/images/Chinese_drawing_38/annotation/",
         "type" : "Annotation",
         "body" : {
           "service" : [ {
@@ -112,17 +112,17 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 1335,
-            "@id" : "https://rossi-uk.github.io/Chinese_drawings /images/Chinese_drawing_38",
+            "@id" : "https://rossi-uk.github.io/Chinese_drawings/images/Chinese_drawing_38",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 2000
           } ],
           "format" : "image/jpeg",
           "width" : 1335,
-          "id" : "https://rossi-uk.github.io/Chinese_drawings /images/Chinese_drawing_38/full/full/0/default.jpg",
+          "id" : "https://rossi-uk.github.io/Chinese_drawings/images/Chinese_drawing_38/full/full/0/default.jpg",
           "type" : "Image",
           "height" : 2000
         },
-        "target" : "https://rossi-uk.github.io/Chinese_drawings /images/Chinese_drawing_38/canvas/"
+        "target" : "https://rossi-uk.github.io/Chinese_drawings/images/Chinese_drawing_38/canvas/"
       } ]
     } ],
     "height" : 2000

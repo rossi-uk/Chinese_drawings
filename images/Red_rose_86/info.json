@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 2000,
-  "@id" : "https://rossi-uk.github.io/Chinese_drawings /images/Red_rose_86",
+  "@id" : "https://rossi-uk.github.io/Chinese_drawings/images/Red_rose_86",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1185
 }

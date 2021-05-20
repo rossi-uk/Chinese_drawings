@@ -1,11 +1,11 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://rossi-uk.github.io/Chinese_drawings /manifests/manifestChinesedrawings.json",
+  "@id" : "https://rossi-uk.github.io/Chinese_drawings/manifests/manifestChinesedrawings.json",
   "@type" : "sc:Manifest",
   "label" : "British Library Add MS 5292 'Drawings of Chinese Flowers, Plants, and Fruits, in colours, by a native artist, at Emuy",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "Volume of drawings of Chinese flowers from the British Library collections ",
+    "@value" : "Volume of drawings of Chinese flowers from the British Library collections",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/publicdomain/mark/1.0/",

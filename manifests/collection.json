@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://rossi-uk.github.io/Chinese_drawings/manifests/manifestChinesedrawings.json",
     "label" : "British Library Add MS 5292 'Drawings of Chinese Flowers, Plants, and Fruits, in colours, by a native artist, at Emuy"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://rossi-uk.github.io/Chinese_drawings /manifests/manifestChinesedrawings.json",
+    "label" : "British Library Add MS 5292 'Drawings of Chinese Flowers, Plants, and Fruits, in colours, by a native artist, at Emuy"
   } ]
 }

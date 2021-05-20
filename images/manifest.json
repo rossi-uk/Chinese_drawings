@@ -1,7 +1,7 @@
 {
   "id" : "https://rossi-uk.github.io/Chinese_drawings/images/manifest.json",
   "label" : {
-    "en" : [ "All images loaded in rossi-uk/Chinese_drawings- project" ]
+    "en" : [ "All images loaded in rossi-uk/Chinese_drawings project" ]
   },
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
